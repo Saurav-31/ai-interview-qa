@@ -21,7 +21,7 @@ https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/
 
 # 📘 **Phase 1 — System Architecture & Multi-Agent Workflows**
 - [ ] **LangGraph: Multi-Agent Workflows**  
-  https://www.deeplearning.ai/short-courses/langgraph
+  https://learn.deeplearning.ai/courses/ai-agents-in-langgraph
 - [ ] **Microsoft Agentic AI Patterns**  
   https://microsoft.github.io/ai-agents/
 
